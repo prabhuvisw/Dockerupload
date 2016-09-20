@@ -1,3 +1,3 @@
 <php
-echo HARI;
+echo Prabhu;
 ?>
