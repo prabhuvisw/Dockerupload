@@ -1,3 +1,3 @@
 <php
-echo terst1;
+echo terst2;
 ?>
